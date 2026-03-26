@@ -1,3 +1,0 @@
-d, ed, duk, dis, t, alex, intc,
-aApl, dow, nvda, amd
-1000.01
